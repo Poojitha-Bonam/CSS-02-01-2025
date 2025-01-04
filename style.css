@@ -69,17 +69,16 @@
     position: relative;
 }
 .overlay {
-    width: 200px;
-    height: 150px;
     border: 2px solid purple;
     position: absolute;
-    left: 50px;
+    left: 0px;
+    background-color: black;
+    top: 0px;
+    padding: 10px;
 }
 .image {
-    width: 200px;
-    height: 150px;
-    border: 2px solid puple;
+    width: 100%;
+    height: 100%px;
     position: absolute;
-    border: 2px solid red;
-    left: 50px;
+    left: 0px;
 }
